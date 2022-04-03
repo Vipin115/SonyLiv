@@ -1,0 +1,20 @@
+#LoginForm{
+    margin: auto;
+    background-color: #151515;
+    height: 30%;
+    /* border:  1px solid red; */
+    width: 25%;
+    font-size: 18px;
+    margin-top: 100px;
+}
+
+#LoginForm input{
+    width: 90%;
+    border-radius: 5px;
+    outline: none;
+    height: 25px;
+}
+
+#LoginForm label{
+    color: #949494;
+}

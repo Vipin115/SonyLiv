@@ -1,0 +1,24 @@
+#Signup{
+    margin: auto;
+    /* background-color: #151515; */
+    background-color: #212121;
+    height: 60%;
+    /* border:  1px solid red; */
+    width: 25%;
+    font-size: 18px;
+    margin-top: 100px;
+}
+
+#Signup input{
+    width: 80%;
+    border-radius: 5px;
+    outline: none;
+    height: 25px;
+}
+
+#Signup label{
+    color: #949494;
+}
+/* .Nav_log{
+    background-color: #212121;
+} */

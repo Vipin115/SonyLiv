@@ -1,0 +1,64 @@
+.header{
+    background-color: rgb(124,126,126,0.5);
+    width: 100%;
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 100;
+}
+.nav{
+    margin: 0 50px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* column-gap: 3rem; */
+}
+.nav-line{
+    width: 2.3px;
+    height: 20px;
+    background-color: #898F8F;
+    margin-left: 20px;
+}
+.nav-menu{
+    margin-right: auto;
+    margin-left: -20px;
+}
+.nav-list{
+    display: flex;
+    column-gap: 40px;
+    list-style: none;
+    align-items: center;
+}
+.nav-link{
+    text-decoration: none;
+    color: #6d7070;
+    font-weight: 500;
+    padding-bottom: 12px;
+}
+.nav-link:hover{
+    color: #ffffff;
+    border-bottom: 2px solid white;
+}
+.nav-btns{
+    display: inline-flex;
+    align-items: center;
+    column-gap: 30px;
+}
+.nav-btns i{
+    color: #ffffff;
+    font-size: 25px;
+    cursor: pointer;
+}
+.nav-sub{
+    background: url("https://resources.sonyliv.com/image/fetch/w_110,c_fill,fl_lossy,f_auto,q_auto:eco,e_contrast:30,e_brightness:10/https://origin-staticv2.sonyliv.com/UI_icons/smart_hook/rectangleCopy_smart_Hook_Background.png");
+    padding: 4px 10px;
+    border-radius: 3px;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: #ffffff;
+    text-align: center;
+    margin-left: 15px;
+    cursor: pointer;
+}

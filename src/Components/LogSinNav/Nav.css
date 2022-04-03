@@ -1,0 +1,15 @@
+#navv{
+    /* border: 1px solid red; */
+    width:  100%;
+    display: flex;
+    background-color: #151515;
+    justify-content: space-evenly;
+    color: #F9F9F9;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#navv Link{
+    color: #F9F9F9;
+    
+}
