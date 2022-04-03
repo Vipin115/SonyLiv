@@ -1,7 +1,7 @@
 # Welcome 👋
 
 
-### Sony Liv
+### Sony Liv Clone
 
 SonyLIV is an Indian over-the-top freemium streaming platform owned by Sony Pictures Networks India. SonyLIV was introduced in 2013 as the first OTT service in India.
 
